@@ -9,19 +9,19 @@ Module: Module 4 - Job Postings (Blue Links - Alumni Hub)
 Follow these steps to replicate and run the project on another computer:
 
 1. Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+`git clone https://github.com/your-username/your-repo-name.git`
 
 2. Open the project folder:
-cd your-repo-name
+`cd your-repo-name`
 
 3. Install dependencies:
-npm install
+`npm install`
 
 4. Run the project:
-npm run dev
+`npm run dev`
 
 5. Open in browser:
-http://localhost:5173
+`http://localhost:5173`
 
 ## AI Tools Used
 - Claude AI
