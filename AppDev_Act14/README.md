@@ -2,6 +2,7 @@
 
 ## Project Details
 Framework: SolidJS
+
 Module: Module 4 - Job Postings (Blue Links - Alumni Hub)
 
 ## Installation
