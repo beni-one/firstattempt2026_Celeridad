@@ -1,11 +1,8 @@
 # CELERIDAD
 
-## Framework
-SolidJS
-
-## Module
-Module 4 - Job Postings
-(Blue Links - Alumni Hub)
+## Project Details
+Framework: SolidJS
+Module: Module 4 - Job Postings (Blue Links - Alumni Hub)
 
 ## Installation
 Follow these steps to replicate and run the project on another computer:
@@ -33,11 +30,9 @@ As a senior web developer, build a fully functional multi-screen web application
 
 ## Screenshots
 
-### Home Page
-![Home Page](./screenshots/home.png)
-
-### Login Page
-![Login Page](./screenshots/login.png)
-
-### Dashboard
-![Dashboard](./screenshots/dashboard.png)
+![logo](C:\Users\Samantha Benissa\Downloads\CELERIDAD_Profile.png)
+![logo](C:\Users\Samantha Benissa\Downloads\CELERIDAD_dashboard.png)
+![logo](C:\Users\Samantha Benissa\Downloads\CELERIDAD_JobBoard.png)
+![logo](C:\Users\Samantha Benissa\Downloads\CELERIDAD_Applications.png)
+![logo](C:\Users\Samantha Benissa\Downloads\CELERIDAD_AlumniNetwork.png)
+![logo](C:\Users\Samantha Benissa\Downloads\CELERIDAD_Notifications.png)
