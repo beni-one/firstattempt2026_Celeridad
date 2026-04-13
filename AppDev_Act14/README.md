@@ -29,10 +29,9 @@ http://localhost:5173
 As a senior web developer, build a fully functional multi-screen web application using SolidJS that faithfully recreates the layout, design, and functionality described in the provided reference document (https://docs.google.com/document/d/1Lg0KfNQH-eUhDGuio6dBdiBnE5VJIDGH6ydOPPgPgUc/edit?tab=t.0). Ensure the CSS closely mirrors the visual style shown, but remember to convert the application into a desktop website — including colors, typography, spacing, and component structure — while implementing all interactive features and screen transitions as specified . Provide complete JSX and CSS files, organized cleanly and ready to run. 
 
 ## Screenshots
-
-![logo](C:\Users\Samantha Benissa\Downloads\CELERIDAD_Profile.png)
-![logo](C:\Users\Samantha Benissa\Downloads\CELERIDAD_dashboard.png)
-![logo](C:\Users\Samantha Benissa\Downloads\CELERIDAD_JobBoard.png)
-![logo](C:\Users\Samantha Benissa\Downloads\CELERIDAD_Applications.png)
-![logo](C:\Users\Samantha Benissa\Downloads\CELERIDAD_AlumniNetwork.png)
-![logo](C:\Users\Samantha Benissa\Downloads\CELERIDAD_Notifications.png)
+![alt text](image.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
+![alt text](image-9.png)
