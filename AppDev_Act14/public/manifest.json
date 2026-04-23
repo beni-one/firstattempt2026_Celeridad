@@ -1,14 +1,19 @@
 {
-  "name": "My Solid App",
-  "short_name": "SolidApp",
+  "name": "Blue Links",
+  "short_name": "Blue Links",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
   "icons": [
     {
-      "src": "/icons/Blue-links-logo.png",
+      "src": "/icons/icon-192.png",
       "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
